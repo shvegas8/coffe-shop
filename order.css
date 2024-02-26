@@ -1,0 +1,83 @@
+div {
+    text-align: center;
+    vertical-align: middle
+}
+
+li {
+    list-style-type: none;
+    text-decoration: none;
+    margin-right: 50px;
+    background-color: #d4c3a5;  
+}
+
+a {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav_item {
+    display: inline;
+    margin-left: 0.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    background-color:white;
+    border-radius: 25px;
+}
+
+.nav_item a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0px;
+    margin-top:35px;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+.smallcup {
+    position: absolute;
+    width: 500px;
+    height: 327px;
+    left: 150px;
+    right: 86px;
+    top: 549px;
+    bottom: 323px;
+    border-radius: 36px;
+    box-shadow: 4px 6px 4px 0px rgba(0, 0, 0, 0.25);
+    background: linear-gradient(179.08deg, rgb(232, 193, 124) 1.893%,rgb(185, 109, 48) 120.309%)
+}
+
+.mediumcup {
+    position: absolute;
+    width: 500px;
+    height: 373px;
+    left: 710px;
+    right: 658px;
+    top: 503px;
+    bottom: 257px;
+    border-radius: 36px;
+    box-shadow: 4px 6px 4px 0px rgba(0, 0, 0, 0.25);
+    background: linear-gradient(179.08deg, rgb(232, 193, 124) 1.893%,rgb(185, 109, 48) 120.309%)
+}
+
+.largecup {
+    position: absolute;
+    width: 500px;
+    height: 426px;
+    left: 1274px;
+    right: 1216px;
+    top: 448px;
+    bottom: 173px;
+    border-radius: 36px;
+    box-shadow: 4px 6px 4px 0px rgba(0, 0, 0, 0.25);
+    background: linear-gradient(178.84deg, rgb(232, 193, 124) 27.098%,rgb(207, 200, 35) 121.143%);
+}
+
